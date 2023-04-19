@@ -1,0 +1,13 @@
+
+ git init (進入)
+
+ git add . (記錄全部 的子集狀態)
+
+ git status (進狀態)
+
+
+ git commit [進入 BIM 編輯器]  
+
+ git commit -m "first commit"  (存版本)
+
+ :q!    [離開 BIM 編輯器]
