@@ -1,0 +1,16 @@
+ 
+ ctrl + c  [跳出 錯誤的指令] 
+
+ 上箭頭  [呼叫 上一行 寫的指令] 
+ 
+ 按 Esc  [當無法下 :q! 離開 BIM 編輯器時]
+
+ git log [看歷史紀錄_可以用 command、GUI (看狀態時方便) 介面]
+
+
+ 在 GUI 介面 (顯示版本差異時) [ 一旦 有顯示 (換行) 就會變紅色字 ]
+
+ 離開 gitk 方式 (把它關掉)_(變成恢復可以下 command)
+
+
+ token_password [  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  ]
