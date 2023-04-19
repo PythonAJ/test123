@@ -10,7 +10,11 @@
 
  在 GUI 介面 (顯示版本差異時) [ 一旦 有顯示 (換行) 就會變紅色字 ]
 
+<<<<<<< HEAD
  離開 gitk 方式 (把它關掉)_(變成恢復可以下 command)
 
 
  token_password [  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  ]
+=======
+ 離開 gitk 方式 (把它關掉)_(變成恢復可以下 command)
+>>>>>>> 27d5af80c6d5fcc9e7dad87db9a5b83c27a4dbcb
